@@ -14,18 +14,12 @@ main{
     display: flex;
 }
 
-
-.card{
-    color: white;
-    border-color: rgb(68, 171, 245);
-    background-color:rgb(68, 171, 245);
-    padding: 5px;
-    margin: 10px;
+.card-body{
+    height: 12rem; 
 }
 
 .card-body1{
-    height: 18rem;
-    text-align: center;
+    height: 12rem;
 }
 
 .imgDestacada {
@@ -34,10 +28,6 @@ main{
     height: auto;
     width: auto;
  }
-
-#destacados{
-    min-height: 60px;
-}
 
 footer{
     background-color: rgb(68, 171, 245);
@@ -48,5 +38,4 @@ footer{
 
 #rs .wrapper-rs-icons i{
     margin-inline: 10px;
-
 }
